@@ -64,7 +64,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 <img src="images/breakdownschets.png" width="375px" alt="breakdownschets hoofdstructuur">
 
-<img src="images/breakdownschets2.pdf" width="375px" >
+<img src="images/breakdownschets2.png" width="375px" >
 
 
 ## Intake (week 1)
