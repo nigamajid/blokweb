@@ -37,7 +37,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Voortgang 1 (week 3)
 
 ### Stand van zaken
-<img src="images/voortgang.png" width="375px" alt="voortgang"
+<img src="images/voortgang.png" width="375px" alt="voortgang">
 
 
 
