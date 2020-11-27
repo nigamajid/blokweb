@@ -41,11 +41,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 
--dit ging goed & dit was lastig-
+Hamburger menu lukt gewoon echt niet, in css stylen gaat fout. Ik had m wel eerst maar kon het niet linksboven krijgen en toen gaf ik op oeps
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+kijk hierboven
+
+
 
 ### Agenda voor meeting
 
