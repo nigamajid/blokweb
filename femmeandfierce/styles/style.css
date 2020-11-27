@@ -1,0 +1,36 @@
+
+body{
+  background-color: rgba(244, 236, 234, 1);
+}
+
+h1{
+  text-align: center;
+position: relative;
+margin-top: -780px;
+}
+
+.logo{
+  display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+span {
+  width: 15px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+  display: block;
+  float: left;
+
+}
+
+
+
+.home{
+display: block;
+margin-left: auto;
+margin-right: auto;
+height: 700px;
+margin-top: 150px;
+}
