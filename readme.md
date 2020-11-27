@@ -38,6 +38,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 <img src="images/voortgang.png" width="375px" alt="voortgang"
+
+
+
 -dit ging goed & dit was lastig-
 
 **Screenshot(s):**
