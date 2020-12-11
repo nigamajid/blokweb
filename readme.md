@@ -30,10 +30,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
-<img src="images/voortgang1.png" width="375px" alt="voortgang">
 <img src="images/voortgang2.png" width="375px" alt="voortgang">
 <img src="images/voortgang3.png" width="375px" alt="voortgang">
 <img src="images/voortgang4.png" width="375px" alt="voortgang">
+<img src="images/voortgang5.png" width="375px" alt="voortgang">
 
 ## Voortgang 1 (week 3)
 
